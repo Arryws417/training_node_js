@@ -1,0 +1,13 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "belajar backend",
+  "main": "apps.js",
+  "scripts": {
+    "start": "node apps",
+    "check" : "node test2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arryws",
+  "license": "ISC"
+}
